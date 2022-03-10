@@ -1,2 +1,1 @@
-# Epitech
-Epitech Repository Projects Tek1
+Some projects carried out in Tek 1 at Epitech.
